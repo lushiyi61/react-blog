@@ -1,7 +1,8 @@
-import background from './background.png';
+import background from './background.jpg';
+import portrait from './portrait.jpg';
 
 
 
 
 
-export { background };
+export { background, portrait };
