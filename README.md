@@ -1,8 +1,11 @@
 # react-blog
-尝试用react开发一个静态Blog
-尝试使用typescript开发react项目
 
-Success! Created blog at I:\all_code_jane\react-blog\blog
+喜欢的话，记得给一个star
+
+1. 尝试用react开发一个静态Blog
+2. 尝试使用typescript开发react项目
+
+
 Inside that directory, you can run several commands:
 
   yarn start
