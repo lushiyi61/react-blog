@@ -5,12 +5,12 @@
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 160px;
-  border-radius: 9999;
+  border-radius: 9999px;
   border: 3px solid #f7f7f7;
 }
 
 .App-header {
-  padding: 40px 0;
+  padding: 30px 0;
   color: rgb(121, 73, 160);
 }
 
@@ -22,12 +22,16 @@
   font-size: large;
 }
 
+.App-body {
+  min-height: 380px;
+  background-color: #FFFFFF;
+}
+
 .App-footer {
-  background-color: #222;
-  height: 100px;
-  padding: 20px;
+  height: 70px;
+  padding: 16px 0px;
   color: white;
-  font-size: small;
+  font-size: medium;
 }
 
 @keyframes App-logo-spin {
