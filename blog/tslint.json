@@ -5,6 +5,7 @@
     "tslint-config-prettier"
   ],
   "rules": {
+    "ordered-imports": false,
     "no-console": false
   },
   "linterOptions": {

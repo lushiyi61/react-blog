@@ -1,6 +1,6 @@
 import * as React from 'react';
-import { background, portrait } from '../image/index';
 import './App.css';
+import { background, portrait } from '../image/index';
 
 const sectionStyle = {
   backgroundImage: `url(${background})`,
@@ -22,7 +22,7 @@ class App extends React.Component {
           <div className="App-intro">2018年6月15日</div>
         </body>
         <footer className="App-footer">
-          <div>湘ICP备15015794号</div>
+          <a href="http://www.beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">湘ICP-15015794</a>
           <div>Copyright © 2018 lushiyi.cn All Rights Reserved</div>
         </footer>
       </div>
